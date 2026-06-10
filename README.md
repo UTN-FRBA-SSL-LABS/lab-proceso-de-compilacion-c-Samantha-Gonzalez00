@@ -898,6 +898,7 @@ Respondé SI o NO:
 <!-- Completá con SI o NO: -->
 EJECUTABLE_O=NO
 
+
 ---
 
 ## Etapa 4 Enlazado
@@ -1091,6 +1092,7 @@ Uso windows, no ejecute este comando.
 ¿Por qué `libc` no hubo que especificarla explícitamente al enlazar con `gcc`?
 
 > **R:**
+
 
 
 ---
